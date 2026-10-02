@@ -1,4 +1,8 @@
-# The Birthday Paradox
+<p align="center">
+  <img src="java-logo-png_seeklogo-75067.png" alt="Java logo" width="120">
+</p>
+
+<h1 align="center">The Birthday Paradox</h1>
 
 A small Java program that demonstrates the **birthday paradox** using a Monte Carlo simulation.
 
@@ -61,8 +65,9 @@ Try changing the class size to see how quickly the probability climbs. For examp
 
 ```
 .
-├── Main.java    # The simulation
-└── README.md    # This file
+├── Main.java                         # The simulation
+├── java-logo-png_seeklogo-75067.png  # Logo used in this README
+└── README.md                         # This file
 ```
 
 ## License
